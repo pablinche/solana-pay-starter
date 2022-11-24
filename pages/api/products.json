@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "name": "OG Emoji pack",
+      "price": "0.09",
+      "description": "Get this fire grinning emoji",
+      "image_url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/grinning-face_1f600.png",
+      "filename": "grinning-face.zip",
+      "hash": "QmeJV93xsVu793EvUtyTTtLUJoexEfqcKsJizXwV1pvYx2"
+    }
+  ]
